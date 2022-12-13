@@ -6,15 +6,24 @@ The released code of IRTNN algorithm, mainly proposed in the paper "Generalized 
 --URL: https://ieeexplore.ieee.org/abstract/document/9340243
 
 --Citation: 
-@ARTICLE{9340243,\\
-  author={Wang, Hailin and Zhang, Feng and Wang, Jianjun and Huang, Tingwen and Huang, Jianwen and Liu, Xinling},\\
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, \\
-  title={Generalized Nonconvex Approach for Low-Tubal-Rank Tensor Recovery}, \\
-  year={2022},\\
-  volume={33},\\
-  number={8},\\
-  pages={3305-3319},\\
-  doi={10.1109/TNNLS.2021.3051650}\\
+@ARTICLE{9340243,
+
+  author={Wang, Hailin and Zhang, Feng and Wang, Jianjun and Huang, Tingwen and Huang, Jianwen and Liu, Xinling},
+  
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  
+  title={Generalized Nonconvex Approach for Low-Tubal-Rank Tensor Recovery}, 
+  
+  year={2022},
+  
+  volume={33},
+  
+  number={8},
+  
+  pages={3305-3319},
+  
+  doi={10.1109/TNNLS.2021.3051650}
+  
 }
 
 ------ Description-----
