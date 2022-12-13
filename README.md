@@ -21,7 +21,7 @@ The released code of IRTNN algorithm, mainly proposed in the paper "Generalized 
 
 --We sincerely recommend the reader the theoretical analysis part, whose proof details are given in the supplement materials: URL: https://ieeexplore.ieee.org/ielx7/5962385/9849214/9340243/supp1-3051650.pdf?arnumber=9340243
 
---We are very grateful to the authors of the competing methods SNN, TNN, WTNN, PSTNN and IRNN for sharing their codes, which contributes the community a lot.
+--We are very grateful to the authors of the competing methods SNN, TNN, WTNN, PSTNN and IRNN for sharing their codes, especially Dr. Canyi Lu, who contribute the community a lot.
 
 ------May this work is helpful to you!-----
 
