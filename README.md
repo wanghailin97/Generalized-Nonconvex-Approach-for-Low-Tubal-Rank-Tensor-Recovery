@@ -1,5 +1,5 @@
 # Generalized-Nonconvex-Approach-for-Low-Tubal-Rank-Tensor-Recovery
-The released code of IRTNN algorithm, mainly proposed in the paper "Generalized Nonconvex Approach for Low-Tubal-Rank Tensor Recovery" pubiliahed in TNNLS 2022
+The released code of IRTNN algorithm, mainly proposed in the paper "Generalized Nonconvex Approach for Low-Tubal-Rank Tensor Recovery" pubilished in TNNLS 2022
 
 -The released IRTNN (also dubbed as IR-t-TNN in the original paper) is the main proposed algorithm in the following paper published in TNNLS-2022 by Hailin Wang et al.:
 
